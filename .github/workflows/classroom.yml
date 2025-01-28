@@ -1,6 +1,6 @@
 name: Python Control Structures Assignment
 
-on: [push, pull_request]
+on: [push, pull_request]  #This event trigger was missing in the original file
 
 jobs:
   test:
